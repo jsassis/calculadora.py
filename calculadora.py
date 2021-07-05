@@ -1,3 +1,4 @@
+# Calculadora de alcance de anúncio.
 #Autor: Jéssica Silva de Assis.
 
 from time import sleep
